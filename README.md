@@ -1,4 +1,3 @@
-# Amazon_Sales_using_python
 
 Conducted an in-depth exploratory data analysis on the Amazon sales dataset, with a primary focus on understanding sales trends and customer behavior. The project involved rigorous data cleaning to ensure accuracy and reliability. Utilized a range of Python libraries, including pandas for data manipulation, seaborn and matplotlib for data visualization, and numpy for numerical operations. The objective was to identify key patterns and insights that could drive strategic business decisions. This foundational analysis set the stage for further detailed examination and reporting.
 
